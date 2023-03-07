@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Application\\Sc5l.Srv.Autenticacao.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Application\\Sc5l.Srv.Autenticacao.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Application\\Sc5l.Srv.Autenticacao.Application.csproj",
+        "projectName": "Sc5l.Srv.Autenticacao.Application",
+        "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Application\\Sc5l.Srv.Autenticacao.Application.csproj",
+        "packagesPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages",
+        "outputPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\NuGet.Config",
+          "C:\\Users\\surf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj": {
+                "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj"
+              },
+              "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Repository\\Sc5l.Srv.Autenticacao.Repository.csproj": {
+                "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Repository\\Sc5l.Srv.Autenticacao.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj",
+        "projectName": "Sc5l.Srv.Autenticacao.Domain",
+        "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj",
+        "packagesPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages",
+        "outputPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\NuGet.Config",
+          "C:\\Users\\surf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Repository\\Sc5l.Srv.Autenticacao.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Repository\\Sc5l.Srv.Autenticacao.Repository.csproj",
+        "projectName": "Sc5l.Srv.Autenticacao.Repository",
+        "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Repository\\Sc5l.Srv.Autenticacao.Repository.csproj",
+        "packagesPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages",
+        "outputPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\NuGet.Config",
+          "C:\\Users\\surf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj": {
+                "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

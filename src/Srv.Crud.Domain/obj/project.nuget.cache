@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9090s14GiBuz8VljW1D4dgCD3QoASojvKaF/sd5X8fQK53uCztJvXeSmgkqZqPCP3Sb/VI/AAoYo9m3OnFxyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Srv.Crud.Domain\\Srv.Crud.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

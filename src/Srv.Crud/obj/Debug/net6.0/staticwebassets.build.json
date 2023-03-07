@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KeFpXwTEb7yXJvA6MsgpyvqjZMOQdBXVqzGxcmztf3A=",
+  "Source": "Srv.Crud.API",
+  "BasePath": "_content/Srv.Crud.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

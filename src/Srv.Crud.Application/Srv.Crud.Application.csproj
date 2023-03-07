@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Behaviours\**" />
+    <Compile Remove="Handlers\QueryHandlers\**" />
+    <EmbeddedResource Remove="Behaviours\**" />
+    <EmbeddedResource Remove="Handlers\QueryHandlers\**" />
+    <None Remove="Behaviours\**" />
+    <None Remove="Handlers\QueryHandlers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Srv.Crud.Domain\Srv.Crud.Domain.csproj" />
+    <ProjectReference Include="..\Srv.Crud.Repository\Srv.Crud.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.22.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.22.0" />
+  </ItemGroup>
+
+</Project>

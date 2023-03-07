@@ -1,0 +1,136 @@
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Projetos\Mgn\Apollo11\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Git\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\Projetos Guardian\SRV\sc5l-srv-autenticacao-357\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Projects\mgn\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Users\surf_\Desktop\correções\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\Correção2\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.deps.json
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.dll
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.dll
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Domain.pdb
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\bin\Debug\net6.0\Sc5l.Srv.Autenticacao.Repository.pdb
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.AssemblyReference.cache
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfoInputs.cache
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.AssemblyInfo.cs
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.csproj.CopyComplete
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\refint\Sc5l.Srv.Autenticacao.Application.dll
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\Sc5l.Srv.Autenticacao.Application.pdb
+C:\Users\surf_\Desktop\MGN\Projetos\sc5l-srv-autenticacao\src\Sc5l.Srv.Autenticacao.Application\obj\Debug\net6.0\ref\Sc5l.Srv.Autenticacao.Application.dll

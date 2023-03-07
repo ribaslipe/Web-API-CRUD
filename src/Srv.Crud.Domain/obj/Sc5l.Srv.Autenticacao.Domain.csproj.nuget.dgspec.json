@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj",
+        "projectName": "Sc5l.Srv.Autenticacao.Domain",
+        "projectPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\Sc5l.Srv.Autenticacao.Domain.csproj",
+        "packagesPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages",
+        "outputPath": "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\Sc5l.Srv.Autenticacao.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\NuGet.Config",
+          "C:\\Users\\surf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\surf_\\Desktop\\WebApi CRUD\\src\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
