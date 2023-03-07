@@ -5,4 +5,4 @@ Projeto desenvolvido usando CQRS e Mediator
 
 Persistencia utilizada EntityFrameworkCore
 
-Bando de dados utilizado PostgreSQL
+Banco de dados utilizado PostgreSQL
